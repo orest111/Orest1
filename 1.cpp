@@ -1,5 +1,8 @@
 //error
 #include<iostream>
+
+//compare
+
 using namespace std;
 bool perevir(int *mas,int n)
 {
